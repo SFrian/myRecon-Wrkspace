@@ -77,4 +77,4 @@ Let's work together to enhance security practices in the digital world!
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
----
+
